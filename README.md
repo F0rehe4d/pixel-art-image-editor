@@ -1,6 +1,12 @@
 # Team Project For CST205
 
-Future works: implement 'before/after' branch, qml for before and after slider comparison
+## Application Preview
+
+![Pixel Art Creator application](app-screenshot.png)
+
+## Future works
+
+implement 'before/after' branch, qml for before and after slider comparison
 
 ## Download
 
